@@ -2,7 +2,7 @@
  * @Author: 蔡永康
  * @Date: 2023-06-06 16:29:19
  * @LastEditors: 蔡永康
- * @LastEditTime: 2023-06-07 09:56:15
+ * @LastEditTime: 2023-06-08 08:59:36
  * @FilePath: /json_to_dart/lib/main.dart
  * @Description: 
  * 
@@ -33,7 +33,6 @@ class Application {
         win.title = "json to dart";
         win.show();
       });
-      
     });
   }
 
